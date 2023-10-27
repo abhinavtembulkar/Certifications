@@ -15,7 +15,7 @@ Below are the links of all courses I have finished:
 1. Machine Learning by Stanford University \n
    Link: https://coursera.org/share/b72ed583ecb362e2db3b088dc34da109
 
-2. Introduction to Machine Learning by Duke University \n
+2. Introduction to Machine Learning by Duke University \\n
    Link: http://coursera.org/verify/MGASMGVN7N7T
 
 3. Python Basics for Data Science by edX \n
