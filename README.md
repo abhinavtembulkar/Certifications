@@ -12,7 +12,7 @@ Below are the links to all the certifications I earned:
 ## Courses
 Below are the links of all courses I have finished:
 
-1. Machine Learning by Stanford University
+1. Machine Learning by Stanford University 
    Link: https://coursera.org/share/b72ed583ecb362e2db3b088dc34da109
 
 2. Introduction to Machine Learning by Duke University
