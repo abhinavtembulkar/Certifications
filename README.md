@@ -1,13 +1,15 @@
 # Certifications & Courses
 
+
 ## Certifications
 Below are the links to all the certifications I earned:
 
-1. <b>Problem Solving (Intermediate) Certificate by Hackerrank</b> <br>
+1. <b>Tensorflow Developer Certificate</b> <br>
+   Link: https://www.credential.net/6932f79f-38ec-4fed-8b98-2892e4e360c9
+
+2. <b>Problem Solving (Intermediate) Certificate by Hackerrank</b> <br>
    Link: https://www.hackerrank.com/certificates/f12ad55195d7
 
-2. <b>Tensorflow Developer Certificate</b> <br>
-   Link: 
 
 ## Courses
 Below are the links of all courses I have finished:
